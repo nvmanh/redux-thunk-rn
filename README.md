@@ -18,6 +18,10 @@ https://www.fullstackreact.com/30-days-of-react/day-15/
 
 ## II. Usage
 
+If you want to change your project name:
+- update in {project}/app.json
+- update in {project}/package.json
+
 ### 1. Clone project
 
 ### 2. Run: npm install
